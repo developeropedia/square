@@ -38,7 +38,8 @@ class TransactionsApi
     {
         if ($apiClient == null) {
             $apiClient = new ApiClient();
-            $apiClient->getConfig()->setHost('https://connect.squareupsandbox.com');
+//            $apiClient->getConfig()->setHost('https://connect.squareupsandbox.com');
+            $apiClient->getConfig()->setHost('https://connect.squareup.com');
         }
   
         $this->apiClient = $apiClient;

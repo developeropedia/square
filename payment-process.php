@@ -1,12 +1,14 @@
 <?php
 require 'connect-php-sdk-master/vendor/autoload.php';
 
-$access_token = 'EAAAEMcfW2lcGKP3P8-VAyhHthX3T1QNjVncV3s1VD7UxK19BW1HacONWPEYXwij';
+//$access_token = 'EAAAEMcfW2lcGKP3P8-VAyhHthX3T1QNjVncV3s1VD7UxK19BW1HacONWPEYXwij';
+$access_token = 'EAAAEdyoM-XFoSxXr__8bEndTveToz9UkYFp0S5_h57SSQgB_e0IBDwK3URcykin';
 # setup authorization
 \SquareConnect\Configuration::getDefaultConfiguration()->setAccessToken($access_token);
 # create an instance of the Transaction API class
 $transactions_api = new \SquareConnect\Api\TransactionsApi();
-$location_id = "LBNZ908X60PNH";
+//$location_id = "LBNZ908X60PNH";
+$location_id = "LNKEEYEJ5RA9G";
 $nonce = $_POST['nonce'];
 
 $request_body = array (

@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- link to the SqPaymentForm library -->
-    <script type="text/javascript" src="https://js.squareupsandbox.com/v2/paymentform">
+<!--    <script type="text/javascript" src="https://js.squareupsandbox.com/v2/paymentform">-->
+    <script type="text/javascript" src="https://js.squareup.com/v2/paymentform">
     </script>
 
     <!-- link to the local SqPaymentForm initialization -->

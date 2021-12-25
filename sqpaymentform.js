@@ -1,8 +1,10 @@
 // Set the application ID
-var applicationId = "sandbox-sq0idb-SYwWKhZu6U03tPAnx5F5_Q";
+// var applicationId = "sandbox-sq0idb-SYwWKhZu6U03tPAnx5F5_Q";
+var applicationId = "sq0idp-Vl1QUwoEwsDHCp9UKnCU_Q";
 
 // Set the location ID
-var locationId = "LBNZ908X60PNH";
+// var locationId = "LBNZ908X60PNH";
+var locationId = "LNKEEYEJ5RA9G";
 
 
 function buildForm(form) {
