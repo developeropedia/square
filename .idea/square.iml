@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/connect-php-sdk-master/lib" isTestSource="false" packagePrefix="SquareConnect\" />
+      <sourceFolder url="file://$MODULE_DIR$/connect-php-sdk-master/test" isTestSource="true" packagePrefix="SquareConnect\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/squizlabs/php_codesniffer" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/phpunit/phpunit-mock-objects" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/satooshi/php-coveralls" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/connect-php-sdk-master/vendor/guzzle/guzzle" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
